@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm just an 18 y.o nerd, who loves 0s and 1s.
+#### I'm an 18 y.o nerd, who loves 0s and 1s.
 - 🧍‍♂️ I'm CEO at dozens of unreleased/half-released projects.
 - 🔭 I’m currently working on some classified projects.
 - 🌱 I’m currently learning how to learn stuff.

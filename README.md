@@ -1,4 +1,3 @@
-![Aging](https://github.com/mahdyar/mahdyar/workflows/Aging/badge.svg)
 ### Hi there 👋
 
 #### I'm a 19 y.o nerd, who loves 0s and 1s.
@@ -9,3 +8,5 @@
 - 📫 How to reach me? send an email to hi[at]mahdyar[dot]me and say hi! - I know English, German(kinda) and Persian, write to me in your favorite one.
 - ✍️ I write my thoughts on [my blog](https://blog.mahdyar.me).
 - 🐧 I love Gnu/Linux.
+
+![Aging](https://github.com/mahdyar/mahdyar/workflows/Aging/badge.svg)

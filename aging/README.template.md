@@ -1,3 +1,4 @@
+![Aging](https://github.com/mahdyar/mahdyar/workflows/Aging/badge.svg)
 ### Hi there 👋
 
 #### I'm a {{ AGE }} y.o nerd, who loves 0s and 1s.

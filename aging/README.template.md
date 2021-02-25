@@ -7,6 +7,6 @@
 - 🙃 You can learn more about me on [my website](https://mahdyar.me).
 - 📫 How to reach me? send an email to hi[at]mahdyar[dot]me and say hi! - I know English, German(kinda) and Persian, write to me in your favorite one.
 - ✍️ I write my thoughts on [my blog](https://blog.mahdyar.me).
-- 🐧 I love Gnu/Linux.
+- 🐧 I love *nix systems.
 
 ![Aging](https://github.com/mahdyar/mahdyar/workflows/Aging/badge.svg)
